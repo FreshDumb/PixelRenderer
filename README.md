@@ -7,4 +7,4 @@ Renders an image by shooting rays at the mesh and getting the corresponding colo
 Idea of the project was to easily be able to make pixelart from 3D-Objects.
 
 
-![](RenderFaster.gif)
+![](RenderFaster.gif) ![](PixelRenderer.gif) 
